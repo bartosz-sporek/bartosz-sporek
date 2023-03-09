@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bartosz
 - 👀 I’m interested in Python, Cybersecurity and Testing
-- 🌱 I’m currently learning WebScrapping
 - 📫 You can contact me on <a href="https://www.linkedin.com/in/bartosz-sporek-b03a97192/">LinkedIn</a> 
 
 <!---
